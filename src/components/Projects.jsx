@@ -38,8 +38,7 @@ const Projects = () => {
           variants={fadeIn('', '', 0.1, 1)}
           className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]"
         >
-          Currently, there are no projects to display.  
-          This section is left empty as a placeholder for future work.
+       The Projects will be Updated Soon!
         </motion.p>
       </div>
 
